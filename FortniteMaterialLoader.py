@@ -8,7 +8,7 @@ from mathutils import Vector
 
 #Enter the path to the .mat file for the textures, make sure you copy the .mat file
 #into the same folder as all the textures!
-DotMatPath = r"E:\Downloads\umodel latest\UmodelExport\Game\Characters\Enemies\Cattus\Textures\MI_IceCliff_01_Cattus.mat"
+DotMatPath = r""
 
 outputMaterialName = "" # Change to just "" to make the material be named the same as the .mat file
 
