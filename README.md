@@ -26,6 +26,6 @@ This is an automatic .mat loader, it sets up a .mat file into a blender material
 6. Press "Run Script" at the top right
 
 # Demonstration of usage
-![alt text](https://i.imgur.com/4OMVs4T.gif)
+https://i.imgur.com/4OMVs4T.mp4
 
 Created on blender 2.80, other versions not verified.
