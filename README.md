@@ -2,6 +2,8 @@
 
 This is an automatic .mat loader, it sets up a .mat file into a blender material which you can then apply to a object, currently only works when you move .mat's to the same folder as all the textures
 
+Supports Diffuse, Normal, Specular & Emissive textures
+
 # How to "Setup"
 
 1. Download the .py file (or click it, then click raw and ctrl+a -> ctrl+c it)
